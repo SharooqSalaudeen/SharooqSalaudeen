@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SharooqSalaudeen
-- 👀 I’m interested in Web Development and Data Science
-- 🌱 I’m currently learning React JS 
-- 💞️ I’m looking to collaborate on React FrontEnd Development
+- 👀 I’m interested in Software Engineering and Data Science
+- 🌱 I’m currently studying MSc Applied Data Science and Statistics at University of Exeter, UK
+- 💞️ I’m looking to collaborate.
 - 📫 How to reach me? - Email me at iamsharooq@gmail.com
 
 <!---
