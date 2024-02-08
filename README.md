@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @SharooqSalaudeen
 - 👀 I’m interested in Software Engineering and Data Science
-- 🌱 I’m currently studying MSc Applied Data Science and Statistics at University of Exeter, UK
+- 🌱 Graduate from University of Exeter, UK in MSc Applied Data Science and Statistics. 
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me? - Email me at iamsharooq@gmail.com
+- 🖊️ Blog: Sharooq.com
+- ☀️ Portfolio: sharooqsalaudeen.github.io
+- 🔥 Current Project: readinsight.com
 
 <!---
 SharooqSalaudeen/SharooqSalaudeen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
