@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SharooqSalaudeen
 - 👀 I’m interested in Software Engineering and Data Science
-- 🌱 Graduate from University of Exeter, UK in MSc Applied Data Science and Statistics. 
+- 🌱 Graduate from University of Exeter, UK in MSc Applied Data Science and Statistics with Distinction.
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me? - Email me at iamsharooq@gmail.com
 - 🖊️ Blog: [Sharooq.com](https://www.sharooq.com)
