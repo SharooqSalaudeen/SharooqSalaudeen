@@ -5,7 +5,7 @@
 - 📫 How to reach me? - Email me at iamsharooq@gmail.com
 - 🖊️ Blog: [Sharooq.com](https://www.sharooq.com)
 - ☀️ Portfolio: [sharooqsalaudeen.github.io](https://sharooqsalaudeen.github.io)
-- 🔥 Current Project: [readinsight.com](https://readinsight.com) - Real-time, unbiased, accurate news feed powered by A.I.
+- 🔥 Current Project: readinsight - Real-time, unbiased, accurate news feed powered by A.I.
 
 <!---
 SharooqSalaudeen/SharooqSalaudeen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
